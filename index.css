@@ -1,0 +1,77 @@
+
+
+.logo{
+    height: 75px;
+}
+
+.generos{
+    font-size: 24px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.fondo_logo{
+    background-color: whitesmoke;
+}
+
+.usuario{
+    margin-right: 25px;
+}
+
+.origen{
+    height: 550px;
+}
+
+.carousel-control-next:hover{
+    background-color: rgba(56, 53, 53, 0.623);
+}
+
+.carousel-control-prev:hover{
+ background-color: rgba(56, 53, 53, 0.623);
+}
+
+.linea_pelis{
+    height: 4px;
+    background-color: white;
+}
+
+body{
+    background-color: black;
+}
+
+.texto_lista{
+    color:wheat;
+    margin-left: 25px;
+}
+
+.titulo_pelis{
+    color: white;
+    margin-left: 25px;
+}
+
+.peli{
+    margin-left: 25px;
+    
+}
+
+.color-cat{
+    color:yellow;
+   
+}
+
+.cookie{
+    color: white;
+    text-align: center;
+    height: 25px;
+    background-color: chocolate;
+}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 500px;
+    overflow-x: hidden;
+}
+
+.dropdown-item:hover{
+    background-color: skyblue;
+}
